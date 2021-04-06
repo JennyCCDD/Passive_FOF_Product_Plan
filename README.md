@@ -1,8 +1,8 @@
-# Negative_FOF_Product_Plan
+# Passive_FOF_Product_Plan
 
 被动FOF投资产品方案设计
 
-This is a python program to generate the weights of the assets for Negativeinvestment style Fund of Fund.
+This is a python program to generate the weights of the assets for passive investment style Fund of Fund.
 
 这是一个用于被动FOF（基金中的基金）投资的产品方案设计的程序。
 
